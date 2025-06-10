@@ -19,7 +19,8 @@
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
-![Python]([https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png))
+![Python](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png)
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
