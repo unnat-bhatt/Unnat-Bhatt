@@ -5,14 +5,7 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 💻 I’m a **Dynamic Developer** passionate about Python, AI & automation.
-- 🔭 I love to contribute to the Opensource Community
-- 🌱 Learning: Advanced AI, Open Source Contributions, and Cloud Platforms
-- 🤝 Open to collaborating on exciting tech projects
-
+---
 ---
 
 ## Skills 🖥️
