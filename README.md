@@ -12,7 +12,6 @@
 - 🔭 I love to contribute to the Opensource Community
 - 🌱 Learning: Advanced AI, Open Source Contributions, and Cloud Platforms
 - 🤝 Open to collaborating on exciting tech projects
-- 📬 Reach me at: `unnatbhatt@gmail.com`
 
 ---
 
