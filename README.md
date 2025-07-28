@@ -5,9 +5,6 @@
 </p>
 
 ---
----
----
-
 ## Skills 🖥️
 
 ### 👨‍💻 Programming Languages
