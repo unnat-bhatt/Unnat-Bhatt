@@ -9,14 +9,14 @@
 ## 🚀 About Me
 
 - 💻 I’m a **Dynamic Developer** passionate about Python, AI & automation.
-- 🔭 Currently working on: AI Assistants and Chatbots
+- 🔭 I love to contribute to the Opensource Community
 - 🌱 Learning: Advanced AI, Open Source Contributions, and Cloud Platforms
 - 🤝 Open to collaborating on exciting tech projects
 - 📬 Reach me at: `unnatbhatt@gmail.com`
 
 ---
 
-## 🛠️ Skills
+## Skills 🖥️
 
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
