@@ -44,7 +44,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:unnatbhatt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnat-bhatt-0b8582367)
-[![Youtube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@UnnatUpstand)
+[![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@UnnatUpstand)
 ---
 
 <p align="center">🚀 Let's build something amazing together!</p>
