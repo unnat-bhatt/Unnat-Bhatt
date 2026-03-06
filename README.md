@@ -25,7 +25,9 @@
 ---
 
 ## 📈 GitHub Stats
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unnat-bhatt&theme=dark&background=000000)]
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unnat-bhatt&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnat-bhatt&theme=tokyonight" alt="GitHub streak" />
