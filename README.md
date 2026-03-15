@@ -37,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-- 🧠 [MegaProject-2-AI-Chatbot-GitHub](https://github.com/unnat-bhatt/MegaProject-2-AI-Chatbot-GitHub)
+- 🧠 [AI_Stock_Predictor](https://github.com/unnat-bhatt/AI_Stock_predictor)
 - 🤖 [Jarvis Project GitHub](https://github.com/unnat-bhatt/jarvis_project_github)
 
 ---
